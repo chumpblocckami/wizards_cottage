@@ -14,7 +14,7 @@ min_date = "2025-03-22"
 max_date="2025-04-22"
 mtg_format="Pauper"
 
-st.caption(f"From {min_date} to {max_data} | Format: {mtg_format}")
+st.caption(f"From {min_date} to {max_date} | Format: {mtg_format}")
 
 # === Match Winrate Bar Chart ===
 st.subheader("Top Archetypes by Match Winrate")
